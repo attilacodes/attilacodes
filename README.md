@@ -6,7 +6,7 @@
 
 - 💞️  I’m looking to collaborate on GIS and Spatial data.
 
-- 📫  You can follow me on Twitter @lukacsovics or email me: attila.scakul@gmail.com
+- 📫  You can follow me on Twitter @lukacsovics
 
 <!---
 attilacodes/attilacodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
